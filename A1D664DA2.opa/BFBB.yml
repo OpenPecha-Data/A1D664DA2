@@ -1,0 +1,30 @@
+segment_sources:
+  I03F5FF7A:
+    type: origin_type
+    relation: translation
+    base: CC5A
+    lang: en
+  I66F22466:
+    type: origin_type
+    relation: translation
+    base: 21B6
+    lang: bo
+segment_pairs:
+  66f359eca4894fa094bfc13853f4bff0:
+    I03F5FF7A: 37c129962a9d4c8db4a2658cc9fbe180
+    I66F22466: e0f475105ab942d3991f36e3ba017bcc
+  9143524301264728a3a00637da980ec0:
+    I03F5FF7A: cea58721c41f414ea27122209588c9cd
+    I66F22466: 6cc63a8771dd407aa3b392c2b5197b68
+  9ad83f2e09394598bfe9915b151d5e34:
+    I03F5FF7A: 3c448c40f59d41e193b574dcd379ee38
+    I66F22466: 0cf60b50c9394ff39e8a9e86b66e59b3
+  2a3ecb7b9fdf4ca9b88f16ae17f6f494:
+    I03F5FF7A: 1ddf66fc37e746219d24bfda3b4be9b8
+    I66F22466: 0fd2ef7357f14d4c85bbfaca71a76fa8
+  ffa37f4f78944dc9b88269266403ed53:
+    I03F5FF7A: ce4f1a0e13c342589e87aaf756f53661
+    I66F22466: e9865dbef14849c3bb60384c2976f21f
+  db91b28a6e2c41a3a1fdc749b54e8693:
+    I03F5FF7A: e1177d5c16944f4e9304f3b74e586bc3
+    I66F22466: 46bf6eb015a0477696cb09f65d67dc43

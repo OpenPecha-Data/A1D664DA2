@@ -1,0 +1,19 @@
+id: A1D664DA2
+title: Short Maṇḍala Offering
+type: translation
+pechas:
+- I03F5FF7A
+- I66F22466
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:39:30.058100
+  last_modified_at: 2023-01-04 12:39:30.058124
+  collections:
+  - Jetsün Drakpa Gyaltsen Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I03F5FF7A/CC5A: BFBB
+  I66F22466/21B6: BFBB
